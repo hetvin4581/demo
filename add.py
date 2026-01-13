@@ -1,7 +1,8 @@
 a=25
-b=15
+b=25
 
 c=a+b
 
 print("add is",c)
+
 
