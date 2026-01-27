@@ -1,11 +1,11 @@
 <?php
-$a=100;
-$b=200;
-$c=300;
+$a=10;
+$b=20;
+$c=30;
 
 if($a>$b && $a>$c)
 {	
-	echo($a." is maximum number");
+	echo($a." is max num");
 }
 elseif($b>$a && $b>$c)
 {
@@ -17,4 +17,5 @@ else
 }
 
 ?>
+
 
