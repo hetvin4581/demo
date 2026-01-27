@@ -9,13 +9,14 @@ if($a>$b && $a>$c)
 }
 elseif($b>$a && $b>$c)
 {
-	echo($b." is maximum number");	
+	echo($b." is max num");	
 }
 else
 {
-	echo($c." is maximum number");
+	echo($c." is max num");
 }
 
 ?>
+
 
 
