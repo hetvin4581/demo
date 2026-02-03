@@ -5,18 +5,19 @@ $c=35;
 
 if($a>$b && $a>$c)
 {	
-	echo($a." is maximum num");
+	echo($a." is max num");
 }
 elseif($b>$a && $b>$c)
 {
-	echo($b." is maximum num");	
+	echo($b." is max num");	
 }
 else
 {
-	echo($c." is maximum num");
+	echo($c." is max num");
 }
 
 ?>
+
 
 
 
