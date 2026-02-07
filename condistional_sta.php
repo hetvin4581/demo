@@ -5,15 +5,15 @@ $c=350;
 
 if($a>$b && $a>$c)
 {	
-	echo($a." is max num");
+	echo($a." is max number");
 }
 elseif($b>$a && $b>$c)
 {
-	echo($b." is max num");	
+	echo($b." is maximum number");	
 }
 else
 {
-	echo($c." is max num");
+	echo($c." is maximum number");
 }
 
 ?>
