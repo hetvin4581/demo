@@ -1,22 +1,23 @@
 <?php
-$a=150;
-$b=250;
-$c=350;
+$a=10;
+$b=20;
+$c=30;
 
 if($a>$b && $a>$c)
 {	
-	echo($a." is maximum num");
+	echo($a." is max num");
 }
 elseif($b>$a && $b>$c)
 {
-	echo($b." is maximum num");	
+	echo($b." is max num");	
 }
 else
 {
-	echo($c." is maximum num");
+	echo($c." is max num");
 }
 
 ?>
+
 
 
 
