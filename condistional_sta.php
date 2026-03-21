@@ -1,19 +1,19 @@
 <?php
-$a=10;
-$b=20;
-$c=30;
+$a=100;
+$b=200;
+$c=300;
 
 if($a>$b && $a>$c)
 {	
-	echo($a." is max num");
+	echo($a." is maximum num");
 }
 elseif($b>$a && $b>$c)
 {
-	echo($b." is max num");	
+	echo($b." is maximum num");	
 }
 else
 {
-	echo($c." is max num");
+	echo($c." is maximum num");
 }
 
 ?>
